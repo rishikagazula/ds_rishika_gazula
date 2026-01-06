@@ -66,6 +66,10 @@ Project Structure
 - `README.md` – Project overview and instructions
 
 
+Google Colab Link:
+https://colab.research.google.com/drive/19U0Vd4tMMnwjLPdL06M75Xv22YdbDYaK?usp=sharing
+
 Conclusion
 
 This project highlights the strong relationship between market sentiment and trader behavior. Understanding sentiment-driven behavior can help design better risk management and trading strategies in crypto markets.
+
